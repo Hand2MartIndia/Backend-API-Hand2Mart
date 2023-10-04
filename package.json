@@ -1,0 +1,31 @@
+{
+  "name": "backend-api-hand2mart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fVbbpfRD19BSvYRsTfZpmAeARbOJRC17AdKy@github.com/Hand2MartIndia/Backend-API-Hand2Mart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hand2MartIndia/Backend-API-Hand2Mart/issues"
+  },
+  "homepage": "https://github.com/Hand2MartIndia/Backend-API-Hand2Mart#readme",
+  "dependencies": {
+    "@types/body-parser": "^1.19.3",
+    "@types/express": "^4.17.18",
+    "@types/node": "^20.8.2",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "pg": "^8.11.3",
+    "sequelize": "^6.33.0",
+    "sequelize-typescript": "^2.1.5",
+    "typescript": "^5.2.2"
+  }
+}
