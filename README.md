@@ -3,7 +3,13 @@ This will contain all the straight forward api calls from DB's specially POSTGRE
 Teck Stack (Keeps updating) - 
 Typescript
 Node.js
-Drizzle
+Sequalize
 
 Database - 
 Supabase 
+
+Commands for performing operations - 
+
+1. start - npm start (status - working)
+2. dev - npm run dev (compile TS with save: status - working)
+3. migrate - node migrate.js (status - not working)
